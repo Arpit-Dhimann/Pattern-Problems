@@ -1,6 +1,4 @@
 # Pattern-Problems
-A comprehensive Java repository focused on mastering Nested Loops and Pattern Generation. This project demonstrates logical control, coordinate manipulation, and iterative problem-solving through various geometric and numeric patterns.
-# Pattern-Problems
 
 This repository is dedicated to mastering **Nested Loops** and **Algorithmic Pattern Generation** in Java. Pattern problems are a vital exercise for strengthening logical thinking, understanding row-column coordination, and managing complex iterative control in code.
 
